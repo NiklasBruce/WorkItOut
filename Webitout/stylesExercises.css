@@ -72,3 +72,14 @@ margin: auto;
     width: 100%;
     
 }
+.videoList{
+    width: 90%;
+    margin: auto;
+}
+iframe{
+    margin: auto;
+}
+.exerciseText{
+    text-align: center;
+    margin: 10px;
+}
